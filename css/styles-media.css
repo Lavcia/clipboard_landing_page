@@ -94,10 +94,11 @@ grid-area: 3/1/4/4;
 
 .ios-button, .mac-button {
   width: 90%;
+margin: 2% auto;
 }
 
 .mac-button {
-  margin-bottom: 8%;
+  margin-bottom: 6%;
 }
 
 .features-intro1 {
@@ -187,7 +188,8 @@ justify-content: center;
 }
 
 .footer-logo-div {
-  margin-bottom: 5%;
+  /* margin-bottom: 5%; */
+  margin: auto auto 5%;
 }
 
 .footer-socmed {
